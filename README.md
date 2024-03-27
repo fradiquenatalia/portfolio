@@ -4,7 +4,7 @@ Este projeto corresponde ao meu primeiro portfolio criado com os cursos da Alura
 
 ## Criado com
 
-HTML, uso de tags semânticas
-CSS, com propriedades de estilização 
-Flexbox
-Responsividade para dispositivos de telas menores   
+*HTML, uso de tags semânticas
+*CSS, com propriedades de estilização 
+*Flexbox
+*Responsividade para dispositivos de telas menores   
